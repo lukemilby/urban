@@ -1,8 +1,9 @@
 # Urban
 Urbandictionary Command Line UI
+
 A tool for searching urbandictionary.
 
-Search Urbandictionary in *style*.
+Search Urbandictionary in **style**.
 
 ## Install
 
